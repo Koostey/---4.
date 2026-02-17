@@ -22,4 +22,5 @@ def max_dragon_power(total_heads):
         power *= head
 
     return power
-print(max_dragon_power(12))
+print(max_dragon_power(99))
+
